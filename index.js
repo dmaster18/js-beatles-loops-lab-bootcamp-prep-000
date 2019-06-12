@@ -7,5 +7,5 @@ return array;
 }
 
 function johnLennonFacts(facts) {
-while  
+while (i < facts.length)  
 }
