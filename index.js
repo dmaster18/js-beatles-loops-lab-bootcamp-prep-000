@@ -6,7 +6,7 @@ for(var i = 0; i < musicians.length; i++) {
 return array;
 }
 
-function johnLennonFacts(facts) {
+function johnLennonFacts(array) {
   var i = 0;
   while (i < array.length) {
     array.push( )
