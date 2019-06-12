@@ -3,4 +3,7 @@ let musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Star
 let instruments = ["Guitar", "Bass", "Drums", "Keyboard"];
 function theBeatlesPlay(musicians, instruments) {
   for (let i = 0; i <= musicians.length; i++)
+  {
+    
+  }
 }
